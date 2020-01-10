@@ -6,6 +6,8 @@ React app to query/view application stats gathered from the SimcoeCountyWebViewe
 
 Copy this website to your hosting container of choice. If you need one, feel free to use this one. https://github.com/county-of-simcoe-gis/SimcoeCountySampleNodeHostingContainer
 
+The script to create the table is part of your WebApi project: https://github.com/county-of-simcoe-gis/SimcoeCountyWebApi/blob/master/sqlScript.sql
+
 ### Prerequisites
 
 ```
