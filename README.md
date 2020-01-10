@@ -2,6 +2,8 @@
 
 React app to query/view application stats gathered from the SimcoeCountyWebViewer.
 
+Please visit our deployment guide for full details: https://github.com/county-of-simcoe-gis/SimcoeCountyDeploymentGuide
+
 ## Getting Started
 
 Copy this website to your hosting container of choice. If you need one, feel free to use this one. https://github.com/county-of-simcoe-gis/SimcoeCountySampleNodeHostingContainer
