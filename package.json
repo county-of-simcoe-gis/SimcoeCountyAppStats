@@ -1,11 +1,15 @@
 {
   "name": "appstats",
+  "homepage": "https://opengis.simcoe.ca/appstats",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
+    "react-datepicker": "^2.9.6",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.1",
+    "react-select": "^3.0.8",
+    "react-vis": "^1.11.7"
   },
   "scripts": {
     "start": "react-scripts start",
